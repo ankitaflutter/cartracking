@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1022137821915",
+    "firebase_url": "https://cartracking-1b088-default-rtdb.firebaseio.com",
+    "project_id": "cartracking-1b088",
+    "storage_bucket": "cartracking-1b088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022137821915:android:db61ef5234d3af416a7afe",
+        "android_client_info": {
+          "package_name": "com.tech.cartracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaViEwxahER7hFNTzNUhxTGF6UHQkBBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
